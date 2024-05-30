@@ -1,0 +1,16 @@
+[
+{
+  "modid": "thaumcraftdamagebooster",
+  "name": "ThaumcraftDamageBooster",
+  "description": "Boost Magic.",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["RiceBallSouls"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
